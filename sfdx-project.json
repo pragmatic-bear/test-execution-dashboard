@@ -1,0 +1,12 @@
+{
+	"packageDirectories": [
+		{
+			"path": "test-dashboard",
+			"default": true
+		}
+	],
+	"name": "Test Execution Dashboard",
+	"namespace": "",
+	"sfdcLoginUrl": "https://login.salesforce.com",
+	"sourceApiVersion": "55.0"
+}
