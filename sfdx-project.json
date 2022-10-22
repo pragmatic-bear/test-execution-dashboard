@@ -2,11 +2,18 @@
 	"packageDirectories": [
 		{
 			"path": "test-dashboard",
-			"default": true
+			"default": true,
+			"package": "TestExecutionDashbaord",
+			"versionName": "0.1 (Beta)",
+			"versionNumber": "0.1.0.NEXT"
 		}
 	],
 	"name": "Test Execution Dashboard",
-	"namespace": "",
+	"namespace": "PragBear",
 	"sfdcLoginUrl": "https://login.salesforce.com",
-	"sourceApiVersion": "55.0"
+	"sourceApiVersion": "55.0",
+	"packageAliases": {
+		"TestExecutionDashbaord": "0Ho7S000000blK7SAI",
+		"TestExecutionDashbaord@0.1.0-2": "04t7S000000TtzUQAS"
+	}
 }

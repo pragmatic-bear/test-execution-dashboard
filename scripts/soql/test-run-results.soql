@@ -1,0 +1,2 @@
+SELECT Id, StartTime, EndTime, TestTime, MethodsCompleted, ClassesCompleted 
+FROM ApexTestRunResult

@@ -1,0 +1,2 @@
+SELECT ApexTestRunResultId, TestTimestamp, RunTime, ApexClass.Name, MethodName 
+FROM ApexTestResult
